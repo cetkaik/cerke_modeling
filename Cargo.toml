@@ -1,0 +1,13 @@
+[package]
+name = "Videos"
+version = "0.1.0"
+authors = ["hsjoihs <hs.ioling.hs@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+lodepng = "2.5.0"
+rgb = "0.8.14"
+lab = "0.7.2"
+conv = "0.3.3"
